@@ -30,6 +30,8 @@ VeriBounty is a decentralized, trustless bounty and escrow platform where open-s
 
 | Parameter | Value |
 | :--- | :--- |
+| **Live Production Web App** | [https://veribounty.vercel.app](https://veribounty.vercel.app) |
+| **GitHub Repository** | [https://github.com/JimmyOgb/veribounty](https://github.com/JimmyOgb/veribounty) |
 | **Network** | GenLayer Studionet |
 | **Chain ID** | `61999` (`0xf22f`) |
 | **RPC Endpoint** | `https://studio.genlayer.com/api` |
